@@ -1,6 +1,6 @@
-# 🤖 AIVA - AI Virtual Assistant
+# 🤖 Companio - Your AI Companion
 
-AIVA (AI Virtual Assistant) is an AI-powered conversational assistant built using **Python**, **Gradio**, and the **Groq API**. It provides a clean chat interface with conversation memory and supports tool calling to perform utility tasks such as retrieving the current date and performing mathematical calculations.
+Companio is an AI-powered conversational assistant built using **Python**, **Gradio**, and the **Groq API**. It provides a clean chat interface with conversation memory and supports tool calling to perform utility tasks such as retrieving the current date and performing mathematical calculations.
 
 Designed as a Tier-2 LLM application, the chatbot demonstrates the use of **conversation memory**, **function/tool calling**, and a modern web-based interface.
 
@@ -35,7 +35,7 @@ Designed as a Tier-2 LLM application, the chatbot demonstrates the use of **conv
 ## 📂 Project Structure
 
 ```
-AIVA-Chatbot/
+Companio-Chatbot/
 │
 ├── Chatbot.py
 ├── requirements.txt
@@ -51,8 +51,8 @@ AIVA-Chatbot/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/AIVA-Chatbot.git
-cd AIVA-Chatbot
+git clone https://github.com/yourusername/Companio-Chatbot.git
+cd Companio-Chatbot
 ```
 
 ---

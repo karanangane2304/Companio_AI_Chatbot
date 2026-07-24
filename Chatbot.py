@@ -149,7 +149,7 @@ def chatbot(message, history):
 
 demo = gr.ChatInterface(
     fn=chatbot,
-    title="AIVA - AI Virtual Assistant",
+    title="Companio - Your AI Companion",
     description="Memory + Current Date Tool"
 )
 
