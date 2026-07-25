@@ -51,7 +51,7 @@ Companio-Chatbot/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Companio-Chatbot.git
+git clone https://github.com/karanangane2304/Companio_AI_Chatbot.git
 cd Companio-Chatbot
 ```
 
