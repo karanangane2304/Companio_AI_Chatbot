@@ -11,7 +11,12 @@ load_dotenv()
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 client = Groq(api_key=GROQ_API_KEY) if GROQ_API_KEY else None
 
-messages = []
+messages = [
+    {
+        "role": "system",
+        "content": "You are Companio, a helpful personal AI assistant."
+    }
+]
 
 def get_current_date():
     """Returns today's current date."""
