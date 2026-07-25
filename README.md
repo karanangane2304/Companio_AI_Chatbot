@@ -35,7 +35,7 @@ Designed as a Tier-2 LLM application, the chatbot demonstrates the use of **conv
 ## 📂 Project Structure
 
 ```
-Companio-Chatbot/
+Companio_AI_Chatbot/
 │
 ├── Chatbot.py
 ├── requirements.txt
@@ -52,7 +52,7 @@ Companio-Chatbot/
 
 ```bash
 git clone https://github.com/karanangane2304/Companio_AI_Chatbot.git
-cd Companio-Chatbot
+cd Companio_AI_Chatbot
 ```
 
 ---
